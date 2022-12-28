@@ -1,0 +1,8 @@
+Query: Successful, Requested URL: http://www.example.com/ , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 48950, Destination Port: 80, Response Line: HTTP/1.1 200 OK. 
+Query: Successful, Requested URL: http://neverssl.com/ , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 41350, Destination Port: 80, Response Line: HTTP/1.1 200 OK. 
+Query: Unsuccessful, Requested URL: http://www.example.com/brevvvvvv , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 48952, Destination Port: 80, Response Line: HTTP/1.1 404 Not Found. 
+Query: Unsuccessful, Requested URL: http://www.hello.com/brevvvvvv , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 38774, Destination Port: 80, Response Line: HTTP/1.1 302 Moved Temporarily. 
+Query: Unsuccessful, Requested URL: http://www.cnn.com/ , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 36578, Destination Port: 80, Response Line: HTTP/1.1 301 Moved Permanently. 
+Query: Successful, Requested URL: http://pudim.com.br/ , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 35070, Destination Port: 80, Response Line: HTTP/1.1 200 OK. 
+Query: Successful, Requested URL: http://pudim.com.br/ , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 35072, Destination Port: 80, Response Line: HTTP/1.1 200 OK. 
+Query: Unsuccessful, Requested URL: http://www.example.com/ , Hostname: rp778, Source IP: 127.0.1.1, Destination IP: 169.233.207.150, Source Port: 48380, Destination Port: 443, Response Line: [Errno 104] Connection reset by peer. 
